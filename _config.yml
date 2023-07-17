@@ -1,5 +1,5 @@
 title: Minimal theme
-logo: /assets/img/salil.jpg
+logo: <a><img src="assets/img/chat2.jpg"></a>
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
